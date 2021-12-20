@@ -17,7 +17,7 @@ Cross-site scripting 0day exploit for anonfiles.com
 
 ## Date
 
-The vulnerability was discovered and exploit was developed on **??/??/2021**, and made public on **??/??/2021**.
+The vulnerability was discovered and exploit was developed on **21/10/2021**, and made public on **20/12/2021**.
 
 #
 
